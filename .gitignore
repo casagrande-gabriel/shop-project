@@ -1,0 +1,23 @@
+# Compiled binaries
+bin/
+obj/
+
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# dotenv (se usar variáveis de ambiente)
+.env
